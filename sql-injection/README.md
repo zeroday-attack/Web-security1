@@ -19,8 +19,8 @@ c.execute(query)
 ## Setup Instructions
 Clone the repository:
 ```
-git clone https://github.com/yourusername/sql-injection-demo.git
-cd sql-injection-demo
+git clone https://github.com/zeroday-attack/Web-security1.git
+cd web-security1/sql-injection
 ```
 Install dependencies:
 ```
